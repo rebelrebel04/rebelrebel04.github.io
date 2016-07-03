@@ -1,15 +1,15 @@
 # User Settings | Edit there as per required
 
-title: accent
-url: "http://ankitsultana.me"
-baseurl: "/accent"
+title: Stupid R Tricks
+url: "https://rebelrebel04.github.io/"
+baseurl: ""
 
 # This will show up at the top of index page
 site_heading: >
-    foo <span class="faded">'s blog</span>
+    <span class="faded">Stupid</span> R Tricks
 
-email: your@email.com
-author: yourname
+email: kurt.r.peters@gmail.com
+author: Kurt R. Peters
 # This description will show up in google search results
 # (for index page) etc.
 description: >
