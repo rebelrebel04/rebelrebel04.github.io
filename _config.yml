@@ -43,15 +43,15 @@ about_stub: >
 
 about_footer: true
 
-twitter_username: AnkitSultana
-github_username: yourgithub
-facebook_id: yourusername
+twitter_username: kurtrpeters
+github_username: rebelrebel04
+facebook_id: 
 
 favicon: true
 favicon_location: "images/favicon.ico"
 
 profile_picture: images/temp.png
-paginate: 5
+paginate: 10
 paginate_path: "/page/:num"
 tracking_id: UA-69243698-7 # GA Tracking ID
 
