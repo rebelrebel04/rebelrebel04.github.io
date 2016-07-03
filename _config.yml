@@ -13,21 +13,16 @@ author: Kurt R. Peters
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    accent is, as Trump would put it, the best
+    I can make a hat, or a brooch, or a pterodactyl!
 
 # This will what will show against &copy; in the footer
-copyright: accent
+copyright: Kurt R. Peters
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
-intro: false         # Tip: Remove the span from site_heading if intro is set to true
+intro: true         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-    Welcome! This is <span>accent</span>, a mobile friendly theme for Jekyll. The main feature of this
-    theme is that you can change the accent color. Refer the
-    <a class="underline different-highlight" href="http://ankitsultana.me/accent/documentation.html">
-        Documentation
-    </a>
-    to know how.
+    Welcome! This is a blog I use to track useful, occasionally insightful R tricks.
 
 permalink: /:title.html
 
@@ -39,7 +34,7 @@ comments: true
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Keep this sentence less than 13 words or it won't look good.
+    Kurt is head of Data Science at IXIS Digital
 
 about_footer: true
 
@@ -53,11 +48,11 @@ favicon_location: "images/favicon.ico"
 profile_picture: images/temp.png
 paginate: 10
 paginate_path: "/page/:num"
-tracking_id: UA-69243698-7 # GA Tracking ID
+tracking_id: # GA Tracking ID
 
 # Social Stuff | open graph and twitter cards
-og_image: "images/accent.png" # This will show in facebook thumbnails
-twitter_image: "http://ankitsultana.me/images/accent.png?1234" # This will show in twitter cards
+og_image: #"images/accent.png" # This will show in facebook thumbnails
+twitter_image: #"http://ankitsultana.me/images/accent.png?1234" # This will show in twitter cards
 
 ####################################
 ####################################
