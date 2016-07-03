@@ -45,7 +45,7 @@ facebook_id:
 favicon: true
 favicon_location: "images/favicon.ico"
 
-profile_picture: images/temp.png
+profile_picture: #images/temp.png
 paginate: 10
 paginate_path: "/page/:num"
 tracking_id: # GA Tracking ID
