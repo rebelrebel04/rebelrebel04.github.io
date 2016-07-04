@@ -1,13 +1,6 @@
----
-title: "First Rmd Test"
-author: "Kurt R. Peters"
-date: "July 3, 2016"
-output: 
-  html_document: 
-    keep_md: yes
-    self_contained: no
-    theme: null
----
+# First Rmd Test
+Kurt R. Peters  
+July 3, 2016  
 
 
 
@@ -18,13 +11,11 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 
-{% highlight r %}
+```r
 summary(cars)
-{% endhighlight %}
+```
 
-
-
-{% highlight text %}
+```
 ##      speed           dist       
 ##  Min.   : 4.0   Min.   :  2.00  
 ##  1st Qu.:12.0   1st Qu.: 26.00  
@@ -32,12 +23,12 @@ summary(cars)
 ##  Mean   :15.4   Mean   : 42.98  
 ##  3rd Qu.:19.0   3rd Qu.: 56.00  
 ##  Max.   :25.0   Max.   :120.00
-{% endhighlight %}
+```
 
 ## Including Plots
 
 You can also embed plots, for example:
 
-![plot of chunk pressure](/assets/Rfig/pressure-1.svg) 
+![](2016-07-03-first-rmd-post_files/figure-html/pressure-1.png) 
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
